@@ -1,8 +1,8 @@
 import { useEffect } from "react";
 import { useProductStore } from "../store/useProductStore";
 import { PackageIcon, PlusCircleIcon, RefreshCwIcon } from "lucide-react";
-import ProductCard from "../Components/ProductCard";
-import AddProductModal from "../Components/AddProductModal";
+import ProductCard from "../components/ProductCard";
+import AddProductModal from "../components/AddProductModal";
 
 function HomePage() {
   const { products, loading, error, fetchProducts } = useProductStore();
