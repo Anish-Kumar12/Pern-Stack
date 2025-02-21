@@ -69,7 +69,10 @@ export const aj = arcjet({
 
 Watch how Arcjet works in this project:
 
-[![Arcjet Demo](https://via.placeholder.com/800x400?text=Arcjet+Demo)](https://res.cloudinary.com/duc6pkjui/video/upload/v1740176872/video-uploads/smow3z6gie0jwzyqgyd5.mp4)
+<video width="800" controls>
+  <source src="https://res.cloudinary.com/duc6pkjui/video/upload/v1740176872/video-uploads/smow3z6gie0jwzyqgyd5.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 ## Installation
 
