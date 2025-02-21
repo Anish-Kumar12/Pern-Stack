@@ -57,6 +57,14 @@ export const aj = arcjet({
 });
 ```
 
+## Arcjet in Action
+Watch how Arcjet works in this project:
+
+<video width="600" controls>
+  <source src="assets/videos/demo.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 ## Installation
 ### Prerequisites
 Ensure you have the following installed:
